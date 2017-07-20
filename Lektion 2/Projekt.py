@@ -25,10 +25,10 @@ while True:
     if uhrzeit == 9 and tag ==18:
         print("Boah,KRAASS,um Neun uhr ist die Uhrzeit vom Text entstanden")
 
-    if name < Boris 
+     else name  Boris 
        print("Willkommen in Deutsche Land")
 
-    elif name < Arian 
+    else name Arian 
         print("Hallo mein Herrscher!")
 
     #if tag == 18 and monat == 7:
